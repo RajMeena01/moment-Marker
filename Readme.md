@@ -45,8 +45,8 @@ See the `LICENSE` file for details
 
 ### Screenshots
 #### Load Unpacked
-![Load unpacked button](assets/images/load-unpacked.png)
+![Load unpacked button](assets/load-unpacked.png)
 
 #### Extensions Panel
-![Chrome Extensions](assets/images/extensions-panel.png)
+![Chrome Extensions](assets/extensions-panel.png)
 ```
